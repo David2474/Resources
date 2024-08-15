@@ -1,5 +1,5 @@
-# Resources
-This is a list with some resources that I found to improve as a developer
+# Recursos
+Este es un repositorio con recursos para programadores.
 
 ## Índice
 
