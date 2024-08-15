@@ -21,6 +21,9 @@ This is a list with some resources that I found to improve as a developer
 ## Retos
 - [dev challengs](https://devchallenges.io/) - Proyectos de la vida diaria.
 - [Frontend Mentor](https://www.frontendmentor.io/challenges) - Proyectos de programacion.
+- [HackerRank](https://www.hackerrank.com/) - Retos de programacion.
+- [LeetCode](https://leetcode.com/) - Retos de programacion.
+- [SQLBolt](https://sqlbolt.com/) - Retos de base de datos.
 
 ## Diseño
 
@@ -40,11 +43,6 @@ This is a list with some resources that I found to improve as a developer
 - [Animista](https://animista.net/) - Animaciones.
 - [Animate](https://animate.style/) - Animaciones.
 - [Anime.js](https://animejs.com/) - Animaciones.
- 
-## Programacion
-
-- [Visual Studio Code](https://code.visualstudio.com/) - Editor de código popular.
-- [Git](https://git-scm.com/doc) - Documentación oficial de Git.
 
 ## Iconos
 
@@ -54,14 +52,10 @@ This is a list with some resources that I found to improve as a developer
 
 ## Otros
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) - Documentación para desarrolladores web.
-- [FreeCodeCamp](https://www.freecodecamp.org/) - Plataforma gratuita de aprendizaje de programación.
+- [Patterns dev](https://www.patterns.dev/) - Documentacion sobre patrones de diseño.
+- [Design Patterns](https://refactoring.guru/design-patterns) - Documentacion sobre patrones de diseño.
 
 ## Contribuir
-
 Si tienes algún recurso que crees que debería estar en esta lista, no dudes en hacer un pull request o abrir un issue.
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
 
