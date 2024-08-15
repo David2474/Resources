@@ -3,18 +3,18 @@ This is a list with some resources that I found to improve as a developer
 
 ## Índice
 
-- [Frontend](#frontend)
-- [Backend](#backend)
-- [DevOps](#devops)
-- [Herramientas](#herramientas)
-- [Patrones de Diseño](#patrones-de-diseño)
+- [Proyectos](#proyectos)
+- [Diseño](#diseño)
+- [Animaciones](#animaciones)
+- [Programacion](#programacion)
+- [Iconos](#iconos)
 - [Recursos Generales](#recursos-generales)
 
-## Frontend
+## Proyectos
 
-- [React.js](https://reactjs.org/docs/getting-started.html) - Documentación oficial de React.
-- [CSS-Tricks](https://css-tricks.com/) - Blog con trucos y consejos sobre CSS.
-- [Tailwind CSS](https://tailwindcss.com/) - Framework de utilidades CSS.
+- [Cofolios](https://www.cofolios.com/)
+- [Godly](https://godly.website/)
+- [Bento Grids](https://bentogrids.com/)
 
 ## Backend
 
