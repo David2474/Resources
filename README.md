@@ -21,12 +21,12 @@ This is a list with some resources that I found to improve as a developer
 ## Retos
 - [dev challengs](https://devchallenges.io/) - Proyectos de la vida diaria.
 - [Frontend Mentor](https://www.frontendmentor.io/challenges) - Proyectos de programacion.
-- [Ui colors](https://uicolors.app/create) - Generador de colores para tailwind.
 
 ## Diseño
 
 - [Spline - 3D](https://spline.design/) - Diseño y animacion de componentes.
 - [Learn Ux](https://uxcel.com/) - Tips para aprender UX.
+- [Ui colors](https://uicolors.app/create) - Generador de colores para tailwind.
 
 ## Componentes
 
@@ -48,8 +48,9 @@ This is a list with some resources that I found to improve as a developer
 
 ## Iconos
 
-- [Refactoring Guru](https://refactoring.guru/design-patterns) - Guía detallada de patrones de diseño.
-- [Design Patterns Book](https://www.oreilly.com/library/view/design-patterns/9780134171930/) - El libro clásico sobre patrones de diseño.
+- [Hugeicons](https://hugeicons.com/) - Iconos.
+- [FontAwesome](https://fontawesome.com/icons) - Iconos.
+- [Flaticon](https://www.flaticon.es/) - Iconos.
 
 ## Otros
 
