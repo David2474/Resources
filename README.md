@@ -4,39 +4,54 @@ This is a list with some resources that I found to improve as a developer
 ## Índice
 
 - [Proyectos](#proyectos)
+- [Retos](#retos)
 - [Diseño](#diseño)
+- [Componentes](#componentes)
 - [Animaciones](#animaciones)
 - [Programacion](#programacion)
 - [Iconos](#iconos)
-- [Recursos Generales](#recursos-generales)
+- [Otros](#otros)
 
 ## Proyectos
 
-- [Cofolios](https://www.cofolios.com/)
-- [Godly](https://godly.website/)
-- [Bento Grids](https://bentogrids.com/)
+- [Cofolios](https://www.cofolios.com/) - Diseños para tu portafolio.
+- [Godly](https://godly.website/) - Ideas para el diseño de tu web.
+- [Bento Grids](https://bentogrids.com/) - Diseños en tendencia.
 
-## Backend
+## Retos
+- [dev challengs](https://devchallenges.io/) - Proyectos de la vida diaria.
+- [Frontend Mentor](https://www.frontendmentor.io/challenges) - Proyectos de programacion.
+- [Ui colors](https://uicolors.app/create) - Generador de colores para tailwind.
 
-- [Node.js](https://nodejs.org/en/docs/) - Documentación oficial de Node.js.
-- [NestJS](https://docs.nestjs.com/) - Framework progresivo para construir aplicaciones backend con Node.js.
+## Diseño
 
-## DevOps
+- [Spline - 3D](https://spline.design/) - Diseño y animacion de componentes.
+- [Learn Ux](https://uxcel.com/) - Tips para aprender UX.
 
-- [Docker](https://docs.docker.com/get-started/) - Guía de inicio rápido de Docker.
-- [Kubernetes](https://kubernetes.io/docs/home/) - Documentación oficial de Kubernetes.
+## Componentes
 
-## Herramientas
+- [Magic UI](https://magicui.design/) - Componentes.
+- [Radix UI](https://www.radix-ui.com/) - Componentes.
+- [Ui Verse](https://uiverse.io/) - Componentes con animaciones.
+- [Aceternity](https://ui.aceternity.com/) - Componentes con animaciones.
+
+## Animaciones
+
+- [Animista](https://animista.net/) - Animaciones.
+- [Animate](https://animate.style/) - Animaciones.
+- [Anime.js](https://animejs.com/) - Animaciones.
+ 
+## Programacion
 
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor de código popular.
 - [Git](https://git-scm.com/doc) - Documentación oficial de Git.
 
-## Patrones de Diseño
+## Iconos
 
 - [Refactoring Guru](https://refactoring.guru/design-patterns) - Guía detallada de patrones de diseño.
 - [Design Patterns Book](https://www.oreilly.com/library/view/design-patterns/9780134171930/) - El libro clásico sobre patrones de diseño.
 
-## Recursos Generales
+## Otros
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - Documentación para desarrolladores web.
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Plataforma gratuita de aprendizaje de programación.
